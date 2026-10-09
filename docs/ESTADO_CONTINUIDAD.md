@@ -86,3 +86,9 @@ Pendiente:
 
 ## Repositorio
 alexracenga-creator/apk-para-asistencia
+
+## Ruta maestra de trabajo
+Documento operativo principal con las fases, criterios de cierre, reglas aprobadas y siguiente acción concreta:
+- [docs/RUTA_MAESTRA_TRABAJO_APKS.md](RUTA_MAESTRA_TRABAJO_APKS.md)
+
+**Punto de reanudación actual:** Fase A, APK 0 del técnico; inspeccionar la versión fuente real y diagnosticar el envío de solicitudes antes de modificar código. No repetir por rutina las pruebas de backend ya reportadas.
